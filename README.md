@@ -12,3 +12,5 @@ According to [this site](http://www.yougowords.com/5-syllables), the longest fiv
 According to [this site](http://www.yougowords.com/7-syllables), the longest seven-syllable word in english is 20 letters long (Buckminsterfullerene).
 
 For dictionary word lookup, I *could* use [this library](https://pypi.org/project/PyDictionary/), but personally, that feels like cheating, so I'll leave that as a last resort.
+
+Are they real words and do they follow English grammar

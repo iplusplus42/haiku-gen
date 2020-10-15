@@ -35,10 +35,26 @@ def random_word_from_length(length):
     return "".join(word)
 
 
+def derive_syllables_from_word(word):
+    pass
+
+
 if __name__ == '__main__':
-    print("HaikuGenerator v0.0.1")
+    print("HaikuGenerator v0.1.0")
     print(
         random_word_from_length(
             random_word_length(1)
         )
     )
+
+    print(f"""
+{random_word_from_length(
+            random_word_length(1)
+        )}
+{random_word_from_length(
+            random_word_length(2)
+        )}
+{random_word_from_length(
+            random_word_length(3)
+        )}
+""")
