@@ -1,6 +1,4 @@
 import random
-import math
-from string import (Template, ascii_lowercase)
 import os
 
 DEBUG = False
@@ -144,5 +142,4 @@ def haiku():
 
 if __name__ == '__main__':
     print("HaikuGenerator v0.1.0")
-    print(Utils.is_palindrome("rats live on no evil star"))
     print(haiku())
