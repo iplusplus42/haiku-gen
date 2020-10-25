@@ -5,6 +5,7 @@ To-Do:
  - [x] Find a way to collect/generate dictionary words
  - [x] Figure out how to calculate the syllables in a word (avoiding using APIs if possible)
  - [ ] Somehow check if the haiku makes any sense at all
+   - [ ] Create rulesets based on English grammar
 
 The included word lists were provided to me by my professor.
 
